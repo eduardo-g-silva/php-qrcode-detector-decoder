@@ -25,10 +25,10 @@
   },
   "autoload": {
     "psr-4": {
-      "Zxing\\": "lib/"
+      "Zxing\\": "src/"
     },
     "files": [
-      "lib/Common/customFunctions.php"
+      "src/Common/customFunctions.php"
     ]
   }
 }
