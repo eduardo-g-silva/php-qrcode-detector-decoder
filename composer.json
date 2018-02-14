@@ -1,13 +1,13 @@
 {
-  "name": "khanamiryan/qrcode-detector-decoder",
+  "name": "eduardo-g-silva/qrcode-detector-decoder",
   "type": "library",
-  "description": "QR code decoder / reader",
+  "description": "QR code decoder / reader wraper to magento2",
   "keywords": [
     "qr",
     "zxing",
     "barcode"
   ],
-  "homepage": "https://github.com/maestroprog/php-qrcode-detector-decoder",
+  "homepage": "https://github.com/eduardo-g-silva/php-qrcode-detector-decoder",
   "license": "MIT",
   "authors": [
     {
