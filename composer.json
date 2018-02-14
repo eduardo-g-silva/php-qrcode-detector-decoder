@@ -1,6 +1,7 @@
 {
   "name": "eduardo-g-silva/qrcode-detector-decoder",
-  "type": "library",
+  "version": "1.1",
+  "type": "magento2-component",
   "description": "QR code decoder / reader wraper to magento2",
   "keywords": [
     "qr",
