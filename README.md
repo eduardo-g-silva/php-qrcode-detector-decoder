@@ -9,18 +9,18 @@ The recommended method of installing this library is via [Composer](https://getc
 Run the following command from your project root:
 
 ```bash
-$ composer require khanamiryan/qrcode-detector-decoder
+$ composer require eduardo-g-silva/qrcode-detector-decoder
 ```
 
 
-## Usage 
+## Usage
 ```php
 require __DIR__ . "/vendor/autoload.php";
 $qrcode = new QrReader('path/to_image');
 $text = $qrcode->text(); //return decoded text from QR Code
 ```
 
-## Requirements 
+## Requirements
 * PHP >= 5.6
 * GD Library
 
@@ -29,7 +29,7 @@ $text = $qrcode->text(); //return decoded text from QR Code
 
 You can help the project by adding features, cleaning the code, adding composer and other.
 
- 
+
 1. Fork it
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
