@@ -1,0 +1,10 @@
+{
+  "name": "eduardo-g-silva/qrcode-detector-decoder",
+  "version": "1.1",
+  "type": "magento2-component",
+  "description": "QR code decoder / reader wraper to magento2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardo-g-silva/qrcode-detector-decoder.git"
+  }
+}
